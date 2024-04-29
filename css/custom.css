@@ -3,3 +3,17 @@
 }
 
 .list-group {line-height:30px}
+
+.container-fluid
+{
+    background-color: brown;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+body
+{
+    background-color: black;
+}
