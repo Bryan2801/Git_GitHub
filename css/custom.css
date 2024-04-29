@@ -3,3 +3,21 @@
 }
 
 .list-group {line-height:30px}
+
+.container-fluid
+{
+    background-color: brown;
+}
+
+.navbar-brand{
+    color: white;
+}
+h2
+{
+    background-color: yellow;
+}
+
+body
+{
+    background-color: black;
+}
